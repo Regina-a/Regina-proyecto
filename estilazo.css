@@ -1,0 +1,20 @@
+nav{
+  height: 200px;
+  background-color: #34AAbb;
+}
+main{
+
+  background-color:#34bbaa;
+  height: 4000px;
+  width: 1500px;
+  margin:0;
+
+}
+.logo{
+padding-right: 200px;
+}
+p{
+font-family:monospace;
+font-size:30px;
+
+}
